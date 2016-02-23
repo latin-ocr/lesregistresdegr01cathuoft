@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lesregistresdegr01cathuoft_0006.png"; bbox 0 0 2498 3242; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 166 880 255 907">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 166 880 255 907">
+     <span class='ocr_line' id='line_1_1' title="bbox 166 880 255 907; baseline 0.011 -1"><span class='ocrx_word' id='word_1_1' title='bbox 166 880 255 907; x_wconf 46' lang='grc' dir='ltr'><strong>’11Ἰ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 565 1541 1873 1587">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 565 1541 1873 1587">
+     <span class='ocr_line' id='line_1_2' title="bbox 565 1541 1873 1587; baseline -0.002 -9"><span class='ocrx_word' id='word_1_2' title='bbox 565 1555 760 1580; x_wconf 70' lang='lat' dir='ltr'>TOULousn.</span> <span class='ocrx_word' id='word_1_3' title='bbox 784 1563 829 1569; x_wconf 94' lang='lat'>—</span> <span class='ocrx_word' id='word_1_4' title='bbox 851 1554 926 1577; x_wconf 69' lang='lat' dir='ltr'><strong>nup,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 951 1555 985 1577; x_wconf 83' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1013 1553 1170 1578; x_wconf 75' lang='lat' dir='ltr'><strong>cHAuvm</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1193 1553 1238 1576; x_wconf 80' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1263 1552 1357 1585; x_wconf 71' lang='lat' dir='ltr'><strong>Frns,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1383 1553 1454 1576; x_wconf 77' lang='lat' dir='ltr'><strong>mm</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1478 1552 1544 1576; x_wconf 75' lang='lat' dir='ltr'><strong>DEs</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1569 1551 1791 1587; x_wconf 70' lang='lat' dir='ltr'><strong>SALENQ-uns,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1818 1541 1873 1575; x_wconf 75' lang='lat'><strong>28.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2138 0 2498 3242">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2138 0 2498 3242">
+     <span class='ocr_line' id='line_1_3' title="bbox 2138 0 2498 3242; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 2138 0 2498 3242; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
